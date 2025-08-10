@@ -13,6 +13,6 @@ If needed you can modify makefile to include extensions other than .txt but we r
   ### 5. Language Simulator
   ### 6. Makefile
 
-## Syntax of the toy language
+
 
 
